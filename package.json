@@ -4,7 +4,7 @@
   "description": "Express server",
   "main": "index.js",
   "scripts": {
-    "start": "node capitalize.js",
+    "start": "node index.js",
     "test": "jest"
   },
   "keywords": [],
